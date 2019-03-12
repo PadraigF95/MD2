@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">New Ross Tourism</string>
+
+
+    <string name="logintitle">Login</string>
+    <string name="loginPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="registerTitle">Register</string>
+    <string name="registerEmail">Email</string>
+    <string name="registerUsername">Username</string>
+    <string name="registerPassword">Password</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnfacebook">fb_login</string>
+    <string name="btnLogout">Logout</string>
+    <string name="appHelp">This is the help screen for New Ross Tourism</string>
+    <string name="appHelpExtra">Basically\, if you need help on using this app, you probably shouldn\'t be using it</string>
+    <string name="appDesc">This app will provide the user with a quick and easy way to manage a list of tourist attractions and your favourite tourist attractions from around New Ross.</string>
+    <string name="appMoreInfo">To learn more information around Tourist attractions search online.  </string>
+    <string name="appAbout">About New Ross Tourism</string>
+    <string name="developer">Developed by Padraig Foran</string>
+
+    <string name="searchAttractionsLbl">Search Attraction\'s</string>
+    <string name="favouritesAttractionsLbl">Favourite Attraction\'s</string>
+    <string name="addAnAttractionLbl">Attraction Check In</string>
+    <string name="addAttractionBtnLbl">Add Attraction</string>
+    <string name="saveCoffeeBtn">Save Attraction</string>
+    <string name="recentlyViewedLbl">Recently Added Attraction\'s</string>
+    <string name="attractionNameLbl">Location :</string>
+    <string name="attractionLocationLbl">Name :</string>
+    <string name="attractionPriceLbl">Price : </string>
+    <string name="attractionRatingLbl">Star Rating</string>
+    <string name="attractionDetailsLbl">Full Attraction Details</string>
+    <string name="informationLbl">Information</string>
+    <string name="emptyMessageLbl">You have no tourist attraction/s added</string>
+    <string name="deleteAttractionLbl">Delete Attraction</string>
+
+
+    <string-array name="attractionTypes">
+        <item>All Types</item>
+        <item>Favourites</item>
+        <item>\> 3\* Rating</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
